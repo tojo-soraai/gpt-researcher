@@ -41,3 +41,5 @@ package-lock.json
 
 #Vim swp files
 *.swp
+
+.webui_secret_key
